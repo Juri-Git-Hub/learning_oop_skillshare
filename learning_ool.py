@@ -5,3 +5,5 @@ my_name = "juri"
 print(my_name)
 if my_name == "juri":
     print("that isn't true!")
+else:
+    print("that is true!")
